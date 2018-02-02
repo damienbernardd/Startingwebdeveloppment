@@ -219,3 +219,9 @@ ul li
   margin-left: 140px;
   margin-top: auto;
 }
+
+mark
+{
+  background-color: silver;
+  color: gray;
+}
