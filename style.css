@@ -1,0 +1,221 @@
+.page
+{
+  background-color: silver ;
+  width: 1300px;
+  height: auto;
+  border-top: 20px solid silver;
+  border-bottom: 20px solid silver;
+}
+
+p
+{
+  color: gray;
+}
+
+h2
+{
+  color: gray;
+}
+
+h3
+{
+  color: gray;
+}
+
+.partie1
+{
+background: white;
+width: 540px;
+height: auto;
+background-position: center;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 15px;
+border-radius: 5px;
+border-width: 1px;
+border-style: solid;
+border-color: gray
+}
+
+.phototim
+{
+border-top: 20px solid white;
+}
+
+.rondtim
+{
+  display:block;
+  border-radius: 50%;
+  width: 25%;
+  height: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 3px;
+  border-style: solid;
+  border-color: silver;
+
+}
+
+.entete1
+{
+  text-align: center;
+  color: #DD5555 ;
+}
+
+.entete2
+{
+  text-align: center;
+}
+
+.description
+{
+text-align: center;
+border-left: 20px solid white;
+border-right: 20px solid white;
+}
+
+.lienwiki
+{
+  display: block;
+  text-align: center;
+  text-transform: none;
+  border-bottom: 20px solid white;
+}
+
+.lienwiki input
+{
+  width: 150px;
+  height: 40px;
+  color: white;
+  background-color: #DD5555;
+  border-radius: 5px;
+}
+
+a
+{
+text-decoration: none;
+}
+
+.partie2
+{
+  background: white;
+  width: 540px;
+  height: 100px;
+  background-position: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+}
+
+li a,a:visited
+{
+  color: gray;
+}
+
+ul
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  border-top: 20px solid white;
+}
+
+ul li
+{
+  display: inline;
+  line-height: 1.8em;
+  margin: 0 24px;
+  list-style-type: none;
+  text-align: center;
+}
+
+.partie3
+{
+  background: white;
+  width: 540px;
+  height: 770px;
+  background-position: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+}
+
+.partie3a
+{
+  border-left: 20px solid white;
+  border-right: 20px solid white;
+}
+
+.favoris
+{
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 30px;
+}
+
+.photo2001
+{
+  width: 130px;
+  height: 137px;
+}
+
+.textephoto2001
+{
+  margin-top: auto;
+  margin-left: 140px;
+  margin-right: auto;
+}
+
+.titre2001
+{
+  margin-top: -160px;
+  margin-left: 200px;
+}
+
+.photohulot
+{
+  width: 130px;
+  height: 167px;
+  margin-top: 100px;
+}
+
+.titrehulot
+{
+  margin-left: 240px;
+  margin-top: -185px;
+
+}
+.textehulot
+{
+  margin-left: 140px;
+  margin-top: auto;
+}
+
+.photoalien
+{
+  width: 130px;
+  height: 167px;
+  margin-top: 120px;
+}
+
+.titrealien
+{
+  margin-left: 295px;
+  margin-top: -180px;
+}
+
+.textealien
+{
+  margin-left: 140px;
+  margin-top: auto;
+}
